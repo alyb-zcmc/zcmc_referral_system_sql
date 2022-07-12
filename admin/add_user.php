@@ -127,7 +127,7 @@
                   <input
                     type="text"
                     id="lastName"
-                    placeholder="Enter First Name"
+                    placeholder="Enter Last Name"
                     required
                   />
                 </div>
@@ -136,7 +136,7 @@
                   <input
                     type="text"
                     id="firstName"
-                    placeholder="Enter Last Name"
+                    placeholder="Enter First Name"
                     required
                   />
                 </div>
